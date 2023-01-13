@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'demo-push',
+  appId: 'io.ionic.demo.push',
+  appName: 'Demo Push',
   webDir: 'www',
   bundledWebRuntime: false
 };
